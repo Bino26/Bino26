@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 👨🏽‍🎓 I’m BSc and currently learning **at ALX AFRICA🇰🇪 and PWSKILLS in INDIA🇮🇳**
+- 👨🏽‍🎓 I’m BCS Graduate and currently learning **at ALX AFRICA🇰🇪 and PWSKILLS in INDIA🇮🇳**
 
 - 🤝 I’m looking to collaborate on **projects with passionate people**
 
