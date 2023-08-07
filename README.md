@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **projects with passionate people**
 
-- 👨‍💻 All of my projects are available at [https://bino26.github.io/portfolio/](https://bino26.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://bino26.github.io](https://bino26.github.io)
 
 - 💬 Ask me about **Web, FrontEnd**
 
