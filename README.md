@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://bino26.github.io](https://bino26.github.io)
 
-- 💬 Ask me about **Web, FrontEnd**
+- 💬 Ask me about **Web, FrontEnd , Backend , FullStack Development**
 
 - 📫 How to reach me **hbino1999@gmail.com**
 
-- ⚡ Fun fact **I am deeply in love with REACT ❤️**
+- ⚡ Fun fact **I am deeply in love with MERN Stack ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
